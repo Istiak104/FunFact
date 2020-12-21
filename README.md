@@ -1,1 +1,2 @@
-Interesting
+Simple C++ progarm to find all the primitive roots of a number .
+For better understanding: https://en.wikipedia.org/wiki/Primitive_root_modulo_n
