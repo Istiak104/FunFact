@@ -1,2 +1,1 @@
-# FunFact
-FunFact
+Interesting
